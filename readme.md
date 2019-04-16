@@ -30,3 +30,7 @@ This is a support group for web developers.
 
 ### 7. Ask great question!
 * Need help with something? Share what you're working on, share some code if you can, tell us which language you're writing and most importantly: be specific about your problem. A well written question will receive well written answers.
+
+
+## Using Github Page
+Would you like to learning something new? Why not create a `new issue` to our repository! It is a great way to share your personal suggestion to our page.
